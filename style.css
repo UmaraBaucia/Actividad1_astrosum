@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.texto_centrado{
+    text-align: center;
+}
+.texto_white{
+    color: white;
+}
+.titulo{
+    text-align: center;
+    color: white;
+}
+.logo{
+    width: 5%;
+}
+.imagen_principal{
+    width: 60%;
+}
+.boton{
+    background-color: rgb(213, 123, 153);
+}
+nav{
+    text-align: center;
+}
